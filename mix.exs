@@ -25,7 +25,7 @@ defmodule Slugy.MixProject do
   defp deps do
     [
       {:ex_doc, ">= 0.0.0", only: :dev},
-      {:ecto, "~> 3.4.0"}
+      {:ecto, "~> 3.5.6"}
     ]
   end
 
